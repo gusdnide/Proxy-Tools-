@@ -1,0 +1,9 @@
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\bin\Release\Proxy Tools.exe.config
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\bin\Release\Proxy Tools.exe
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\bin\Release\Proxy Tools.pdb
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\obj\Release\Proxy_Tools.Form1.resources
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\obj\Release\Proxy_Tools.Properties.Resources.resources
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\obj\Release\Proxy Tools.csproj.GenerateResource.Cache
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\obj\Release\Proxy Tools.exe
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\obj\Release\Proxy Tools.pdb
+E:\Projeto\Novos Projetos5\Proxy Tools\Proxy Tools\obj\Release\Proxy Tools.csprojResolveAssemblyReference.cache
